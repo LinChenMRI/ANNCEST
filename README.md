@@ -1,4 +1,4 @@
-# Matlab Toolbox for ANNCEST MRI 
+# Matlab toolbox of ANNCEST MRI 
 
 Author: Lin Chen
 
