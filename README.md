@@ -13,18 +13,19 @@ This toolbox contains Matlab files that implement the ANNCEST MRI described in p
 
 Lin Chen, Michael Schär, Kannie Chan, Jianpan Huang, Zhiliang Wei, Hanzhang Lu, Qin Qin, Robert Weiss, Peter van Zijl, Jiadi Xu*, In vivo imaging of phosphocreatine with artificial neural networks
 
+You can download the paper at the following link:
+
+***To be continued***
+
+If you use this code, please cite the following paper:
+
+***To be continued***
+
+
 Acknowledgement
 
 We make our software routines available for non-profit scientific research, enabling others researchers to understand, reproduce and extend our work. 
 All rights are reserved by the authors. Unauthorized use of the routines for industrial or profit-oriented activities is expressively prohibited.
-
-You can download the paper at the following links:
-
-***To be continued***
-
-If you use this code, please cite the following papers:
-
-***To be continued***
 
 Welcome your comments and suggestions.
 
