@@ -21,12 +21,6 @@ If you use this code, please cite the following paper:
 
 ***To be continued***
 
-
-Acknowledgement
-
-We make our software routines available for non-profit scientific research, enabling others researchers to understand, reproduce and extend our work. 
-All rights are reserved by the authors. Unauthorized use of the routines for industrial or profit-oriented activities is expressively prohibited.
-
 Welcome your comments and suggestions.
 
 Aug. 24, 2019
