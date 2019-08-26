@@ -17,9 +17,7 @@ You can download the paper at the following link:
 
 ***To be continued***
 
-If you use this code, please cite the following paper:
-
-***To be continued***
+If you use this code, please cite the abovementioned paper.
 
 Welcome your comments and suggestions.
 
