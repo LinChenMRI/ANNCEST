@@ -15,7 +15,7 @@ Lin Chen, Michael Schär, Kannie Chan, Jianpan Huang, Zhiliang Wei, Hanzhang Lu,
 
 You can download the paper at the following link:
 
-***To be continued***
+***To be announced***
 
 If you use this code, please cite the abovementioned paper.
 
