@@ -1,6 +1,6 @@
 # Matlab toolbox of ANNCEST MRI 
 
-Author: Lin Chen
+Author: Lin Chen, Jiadi Xu
 
 Email: chenlin0430@gmail.com      chenlin0430@163.com
 
