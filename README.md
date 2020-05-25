@@ -15,8 +15,6 @@ Lin Chen, Michael Schär, Kannie Chan, Jianpan Huang, Zhiliang Wei, Hanzhang Lu,
 
 We thank Moritz Zaiss and coauthors for sharing their Z-spectrum simulation code at https://github.com/cest-sources/BM_sim_fit.git
 
-If you use this code, please cite the abovementioned paper.
-
 Welcome your comments and suggestions.
 
 For more information, please visit: https://linchenmri.com
