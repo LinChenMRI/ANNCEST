@@ -2,7 +2,7 @@
 
 Author: Lin Chen, Jiadi Xu
 
-Email: chenlin0430@gmail.com      chenlin0430@163.com
+Email:  chenlin0430@163.com   XuJ@kennedykrieger.org
 
 Affiliations:
 Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University School of Medicine, Baltimore, MD, USA
