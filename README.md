@@ -17,6 +17,5 @@ We thank Moritz Zaiss and coauthors for sharing their Z-spectrum simulation code
 
 Welcome your comments and suggestions.
 
-For more information, please visit: https://linchenmri.com
 
 Aug. 24, 2019
